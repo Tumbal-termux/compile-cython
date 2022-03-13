@@ -15,9 +15,14 @@ Rubah Bacaan Nya Menjadi Nama File Kalian Contoh
 ![IMG_20220313_121533](https://user-images.githubusercontent.com/101085369/158046285-d7144f4a-15c4-4de7-a7cf-d06625cca70b.jpg)
 
 - file.pyx
+
 Jika sudah Lanjut ke Tutorial 4
 
 # Tutorial 4
+Install modul cython terlebih dahulu sebelum menjalankan file setup.py 
+```
+pip install cython
+```
 Jalankan File setup.py dengan perintah berikut
 ```
 python setup.py build_ext --inplace
