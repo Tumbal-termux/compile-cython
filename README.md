@@ -12,7 +12,7 @@ Jika Sudah Di Rubah Lanjut Tutorial 3
 # Tutorial 3
 Di File setup.py itu kan ada bacaan nya contoh.pyx
 Rubah Bacaan Nya Menjadi Nama File Kalian Contoh
-![Screenshot_2022-03-13-11-50-21-10_87c2225eebc34d2513fa0e7ad5b93cfc](https://user-images.githubusercontent.com/101085369/158045784-e6dcc838-d01c-4d27-971c-6cfca993b6fa.png)
+![IMG_20220313_121533](https://user-images.githubusercontent.com/101085369/158046285-d7144f4a-15c4-4de7-a7cf-d06625cca70b.jpg)
 
 - file.pyx
 Jika sudah Lanjut ke Tutorial 4
@@ -28,7 +28,7 @@ Lanjut ke tutorial ke 5
 
 # Tutorial 5
 Pergi ke Folder Kalian Yang Kalian Letak File nya dan Hapus File Seperti Gambar Di Bawah Ini
-![IMG_20220313_120640](https://user-images.githubusercontent.com/101085369/158045958-664d5d1a-4537-4026-b761-02f6d88ebdac.jpg)
+![IMG_20220313_121702](https://user-images.githubusercontent.com/101085369/158046308-ace0e980-f60f-4a31-b165-51875cff6113.jpg)
 Jika Sudah Di hapus File dan Folder seperti Di Atas
 Kalian Hanya Perlu memakai File Yang Bernama cython-310.so
 
@@ -36,6 +36,6 @@ Lanjut
 
 # Tutorial 6
 Dan Hasil Nya akan Seperti Ini
-![Screenshot_2022-03-13-12-09-09-33_87c2225eebc34d2513fa0e7ad5b93cfc](https://user-images.githubusercontent.com/101085369/158046009-8a856391-5c0c-45d0-b32b-03fe518c3acb.png)
+![IMG_20220313_121645](https://user-images.githubusercontent.com/101085369/158046336-3bc81901-43c4-40af-864b-3d0df4dc4475.jpg)
 
 - Selamat Mencoba
