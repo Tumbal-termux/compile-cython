@@ -23,3 +23,8 @@ Jalankan File setup.py dengan perintah berikut
 python setup.py build_ext --inplace
 ```
 ![Screenshot_2022-03-13-12-03-00-24_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/101085369/158045865-1b003077-7cdb-47e6-acce-1c36158ba6f1.png)
+Jika Di jalan File setup.py seperti di gambar di atas maka compile cython nya berhasil
+Lanjut ke tutorial ke 5
+
+# Tutorial 5
+Pergi ke Folder Kalian Yang Kalian Letak File nya dan Hapus File Seperti Gambar Di Bawah Ini
