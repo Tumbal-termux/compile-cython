@@ -22,3 +22,4 @@ Jalankan File setup.py dengan perintah berikut
 ```
 python setup.py build_ext --inplace
 ```
+![Screenshot_2022-03-13-12-03-00-24_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/101085369/158045865-1b003077-7cdb-47e6-acce-1c36158ba6f1.png)
