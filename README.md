@@ -29,10 +29,13 @@ Lanjut ke tutorial ke 5
 # Tutorial 5
 Pergi ke Folder Kalian Yang Kalian Letak File nya dan Hapus File Seperti Gambar Di Bawah Ini
 ![IMG_20220313_120640](https://user-images.githubusercontent.com/101085369/158045958-664d5d1a-4537-4026-b761-02f6d88ebdac.jpg)
+Jika Sudah Di hapus File dan Folder seperti Di Atas
+Kalian Hanya Perlu memakai File Yang Bernama cython-310.so
+
 Lanjut
 
 # Tutorial 6
 Dan Hasil Nya akan Seperti Ini
+![Screenshot_2022-03-13-12-09-09-33_87c2225eebc34d2513fa0e7ad5b93cfc](https://user-images.githubusercontent.com/101085369/158046009-8a856391-5c0c-45d0-b32b-03fe518c3acb.png)
 
-Jika Sudah Di hapus File dan Folder seperti Di Atas
-Kalian Hanya Perlu memakai File Yang Bernama cython-310.so
+- Selamat Mencoba
