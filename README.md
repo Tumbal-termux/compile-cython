@@ -6,7 +6,7 @@ Jika Sudah Kalian Rapikan File Nya Selanjutnya Tutorial ke 2
 
 # Tutorial 2
 Ubah Nama File.py Kalian Menjadi File.pyx Seperti Gambar Di Bawah Ini
-![IMG_20220313_115615](https://user-images.githubusercontent.com/101085369/158045703-381e065f-05b6-41e5-816d-e04d71337e89.jpg)
+![IMG_20220313_121606](https://user-images.githubusercontent.com/101085369/158046265-28c27b3f-3c45-442f-92ed-0fee19c06a70.jpg)
 Jika Sudah Di Rubah Lanjut Tutorial 3
 
 # Tutorial 3
